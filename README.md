@@ -24,7 +24,8 @@ uvicorn main:app --reload
 ```
 ## Try the api in the browser
 
-localhost:8000/
+**localhost:8000/**
+**locahost:8000/docs**
 
 ## Try it again
 
