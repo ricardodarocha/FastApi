@@ -19,7 +19,7 @@ will appear an venv tag
 Now you can install all dependencies and shows up the application server
 
 ```
-pip install requirements
+pip install requirements.txt
 uvicorn main:app --reload
 ```
 ## Try the api in the browser
